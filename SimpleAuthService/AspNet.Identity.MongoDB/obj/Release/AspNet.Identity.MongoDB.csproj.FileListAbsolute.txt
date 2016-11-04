@@ -1,0 +1,12 @@
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\AspNet.Identity.MongoDB.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\AspNet.Identity.MongoDB.pdb
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\Microsoft.AspNet.Identity.Core.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\MongoDB.Bson.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\MongoDB.Driver.Core.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\MongoDB.Driver.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\Microsoft.AspNet.Identity.Core.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\MongoDB.Bson.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Release\MongoDB.Driver.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Release\AspNet.Identity.MongoDB.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Release\AspNet.Identity.MongoDB.pdb
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Release\AspNet.Identity.MongoDB.csprojResolveAssemblyReference.cache

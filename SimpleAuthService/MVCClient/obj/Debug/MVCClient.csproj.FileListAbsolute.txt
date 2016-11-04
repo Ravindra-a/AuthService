@@ -13,6 +13,5 @@ E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Webpages
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Webpages.Razor.xml
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Helpers.xml
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Mvc.xml
-E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\obj\Debug\MVCClient.csprojResolveAssemblyReference.cache
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\obj\Debug\MVCClient.dll
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\obj\Debug\MVCClient.pdb

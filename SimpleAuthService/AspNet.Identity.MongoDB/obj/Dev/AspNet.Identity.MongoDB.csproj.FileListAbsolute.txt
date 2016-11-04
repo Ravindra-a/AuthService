@@ -1,0 +1,12 @@
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\AspNet.Identity.MongoDB.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\AspNet.Identity.MongoDB.pdb
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\Microsoft.AspNet.Identity.Core.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\MongoDB.Bson.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\MongoDB.Driver.Core.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\MongoDB.Driver.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\Microsoft.AspNet.Identity.Core.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\MongoDB.Bson.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\bin\Dev\MongoDB.Driver.xml
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Dev\AspNet.Identity.MongoDB.csprojResolveAssemblyReference.cache
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Dev\AspNet.Identity.MongoDB.dll
+E:\Drivojoy\DrivoJoy.Com\AspNet.Identity.MongoDB\obj\Dev\AspNet.Identity.MongoDB.pdb
