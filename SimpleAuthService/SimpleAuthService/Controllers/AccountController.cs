@@ -9,5 +9,6 @@ namespace SimpleAuthService.Controllers
 {
     public class AccountController : BaseAPIController
     {
+        
     }
 }
