@@ -120,3 +120,5 @@ E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\bin\ru\System.S
 E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\bin\zh-Hans\System.Spatial.resources.dll
 E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\bin\zh-Hant\System.Spatial.resources.dll
 E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\obj\Debug\SimpleAuthService.csprojResolveAssemblyReference.cache
+E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\bin\AspNet.Identity.MongoDB.dll
+E:\Handson\SimpleAuthService\SimpleAuthService\SimpleAuthService\bin\AspNet.Identity.MongoDB.pdb

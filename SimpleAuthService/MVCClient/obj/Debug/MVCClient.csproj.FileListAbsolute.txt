@@ -15,3 +15,11 @@ E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Helpers.
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Mvc.xml
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\obj\Debug\MVCClient.dll
 E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\obj\Debug\MVCClient.pdb
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\Newtonsoft.Json.dll
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Net.Http.Formatting.dll
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Http.dll
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Http.WebHost.dll
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\Newtonsoft.Json.xml
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Net.Http.Formatting.xml
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Http.xml
+E:\Handson\SimpleAuthService\SimpleAuthService\MVCClient\bin\System.Web.Http.WebHost.xml
