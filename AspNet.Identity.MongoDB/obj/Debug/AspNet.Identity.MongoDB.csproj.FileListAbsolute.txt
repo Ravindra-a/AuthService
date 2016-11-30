@@ -21,3 +21,15 @@ E:\Handson\SimpleAuthService\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug
 E:\Handson\SimpleAuthService\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Driver.xml
 E:\Handson\SimpleAuthService\SimpleAuthService\AspNet.Identity.MongoDB\obj\Debug\AspNet.Identity.MongoDB.dll
 E:\Handson\SimpleAuthService\SimpleAuthService\AspNet.Identity.MongoDB\obj\Debug\AspNet.Identity.MongoDB.pdb
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\AspNet.Identity.MongoDB.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\AspNet.Identity.MongoDB.pdb
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Bson.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Driver.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Bson.xml
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\bin\Debug\MongoDB.Driver.xml
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\obj\Debug\AspNet.Identity.MongoDB.csprojResolveAssemblyReference.cache
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\obj\Debug\AspNet.Identity.MongoDB.dll
+E:\Handson\SimpleAuthService\AspNet.Identity.MongoDB\obj\Debug\AspNet.Identity.MongoDB.pdb

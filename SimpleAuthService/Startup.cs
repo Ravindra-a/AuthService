@@ -40,7 +40,7 @@ namespace SimpleAuthService
             // For more information on how to configure your application, visit http://go.microsoft.com/fwlink/?LinkID=316888
             ConfigureWebApi();
 
-            app.UseCors(CorsOptions.AllowAll);
+            app.UseCors(CorsOptions.AllowAll);            
         }
 
         /// <summary>
@@ -64,7 +64,7 @@ namespace SimpleAuthService
             app.CreatePerOwinContext(ApplicationDbContext.Create);
             app.CreatePerOwinContext<ApplicationUserManager>(ApplicationUserManager.Create);
             app.CreatePerOwinContext<ApplicationRoleManager>(ApplicationRoleManager.Create);
-
+            
             //Cookie for old school MVC application
             var cookieOptions = new CookieAuthenticationOptions
             {
